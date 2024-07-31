@@ -1,1 +1,3 @@
 c file holds the addition program which will help the user to add two number.
+
+now i need to git fetch and merge, which can be done by using only pull but yeahh.... we have a lot of time...hehehehehe
